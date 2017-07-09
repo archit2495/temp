@@ -1,5 +1,5 @@
 
-#include<bits/stdc++.h>
+#include<stdio.h>
 using namespace std;
 #define ll long long
 int a[100005];
